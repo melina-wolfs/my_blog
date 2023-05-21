@@ -1,0 +1,14 @@
+.btn-purple{
+	background-color: purple;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	margin: 20px 0px;
+}
+.btn-purple:hover {
+background-color: white;
+color: purple;
+}

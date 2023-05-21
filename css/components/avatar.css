@@ -1,0 +1,8 @@
+.avatar{
+    background-color: #FAF5EE;
+	padding: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    margin: 10px;
+}

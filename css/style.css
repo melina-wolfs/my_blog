@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/card.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/quiz_card.css");
+@import url("components/subscription_card.css");
+@import url("components/follow_me_card.css");
+
+
+
+
+
+body{
+	background-color: #FFE6F7;
+	color: purple;
+	font-family: 'Source Serif Pro', serif;
+	font-size: 16px;
+}
+h1, h2, h3{
+	font-family: 'Roboto', sans-serif;
+}	
+h1{
+	font-family:'Lora';
+	color: purple;
+	letter-spacing: 5px;
+	font-weight: 250px;
+	font-size: 32px;
+	text-transform: Uppercase;
+}
+h2{
+	font-family:'Roboto';
+	color: mediumpurple;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+h3{
+	font-family: 'Roboto';
+	font-size: 32px;
+	color: mediumpurple;
+	margin: 30px ;
+	font-weight: bold;
+	margin-bottom: 0px;
+    margin-top: 100px;
+}
+
+h4{
+	font-family: 'Lora';
+	font-size: 20px;
+	font-weight: normal;
+	color: purple;
+}
+
+p{
+	font-size: 24px;
+}
+
+
+a {
+	text-decoration: none;
+	margin: 10px;
+	color: purple;
+	font-weight: bold;
+}
+a:hover{color: white;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}

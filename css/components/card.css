@@ -1,0 +1,27 @@
+.cards {
+	display: inline;
+	flex-wrap: wrap;
+}
+
+.card {
+	background-color: #FAF5EE;
+	padding: 20px;
+    display: inline-grid;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    margin: 25px;
+    flex-basis: 200px;
+}
+
+.card img {
+	width: 200px;
+	height: 200px;
+	border-radius: 6px;
+}
+
+#id h1 {
+	padding-left: 30px;
+	font-size: 24px;
+}

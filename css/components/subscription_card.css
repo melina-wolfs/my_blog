@@ -1,0 +1,27 @@
+.cards {
+	display: inline;
+	flex-wrap: wrap;
+}
+
+.subscription_card {
+	background-color: #FAF5EE;
+	padding: 20px;
+    display: inherit;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    margin: 20px;
+    flex-basis: 200px;
+}
+
+.card img {
+	width: 200px;
+	height: 200px;
+	border-radius: 6px;
+}
+
+.card h3 {
+	padding-left: 20px;
+	font-size: 16px;
+}
